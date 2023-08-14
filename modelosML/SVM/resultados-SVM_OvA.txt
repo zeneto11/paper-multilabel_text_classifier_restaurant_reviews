@@ -1,0 +1,10 @@
+Melhor porcentagem: 80.00
+Melhores hiperpar�metros: {'model__estimator__C': 1, 
+'model__estimator__class_weight': 'balanced', 
+'model__estimator__gamma': 'scale', 
+'model__estimator__kernel': 'linear', 
+'select__percentile': 80, 
+'tfidf__min_df': 1, 
+'tfidf__ngram_range': (1, 1)}
+Melhor f1: 0.76
+Execução: 41:27:10

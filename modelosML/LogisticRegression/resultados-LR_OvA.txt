@@ -1,0 +1,10 @@
+Melhor porcentagem: 100.00
+Melhores hiperpar�metros: {'model__estimator__C': 10.0, 
+'model__estimator__max_iter': 1000, 
+'model__estimator__penalty': 'l1', 
+'model__estimator__solver': 'liblinear', 
+'select__percentile': 100, 
+'tfidf__min_df': 1, 
+'tfidf__ngram_range': (1, 2)}
+Melhor f1: 0.76
+Execução: 08:48:02

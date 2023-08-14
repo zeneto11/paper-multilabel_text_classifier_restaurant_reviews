@@ -1,0 +1,11 @@
+Melhor porcentagem: 40.00
+Melhores hiperpar�metros: {'model__estimator__max_features': 'sqrt', 
+'model__estimator__min_samples_leaf': 1, 
+'model__estimator__min_samples_split': 2, 
+'model__estimator__n_estimators': 100, 
+'select__percentile': 40, 
+'tfidf__min_df': 3, 
+'tfidf__ngram_range': (1, 2)}
+Melhor f1: 0.73
+Execução: 21:39:03
+

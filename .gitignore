@@ -1,0 +1,18 @@
+# Arquivos de configuração
+env/
+.idea/
+.vscode/
+
+# Arquivos temporários
+datasets/dataset_multilabel.py
+datasets/dataset-4000sentencas.csv
+
+estudo_de_caso/estudo_de_caso-dataset.py
+estudo_de_caso/dataset_cocobambu.json
+estudo_de_caso/resultados/grafico-teste.csv
+
+modelosML/artigo-models.py
+modelosML/LogisticRegression/LR.py
+modelosML/RandomForest/RF.py
+modelosML/SVM/SVM.py
+
